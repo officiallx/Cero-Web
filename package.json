@@ -23,6 +23,7 @@
     "@fortawesome/fontawesome-free": "^6.4.0",
     "autoprefixer": "^10.4.14",
     "jquery": "^3.6.4",
+    "locomotive-scroll": "^4.1.4",
     "ngx-scrollbar": "^11.0.0",
     "postcss": "^8.4.21",
     "rxjs": "~7.8.0",
